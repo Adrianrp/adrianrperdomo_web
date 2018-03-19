@@ -1,0 +1,24 @@
+{
+  "name": "adrianrperdomo-web",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "dropbox": "^4.0.0",
+    "gatsby": "^1.9.218",
+    "gatsby-image": "^1.0.41",
+    "gatsby-link": "^1.6.37",
+    "gatsby-plugin-glamor": "^1.6.13",
+    "gatsby-plugin-sharp": "^1.6.38",
+    "gatsby-plugin-typography": "^1.7.16",
+    "gatsby-source-behance": "^2.0.1",
+    "gatsby-source-filesystem": "^1.5.26",
+    "gatsby-transformer-sharp": "^1.6.22",
+    "material-ui": "^1.0.0-beta.35",
+    "typography-theme-moraga": "^0.15.10"
+  }
+}
